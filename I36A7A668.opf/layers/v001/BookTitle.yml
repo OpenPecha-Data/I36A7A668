@@ -1,0 +1,25 @@
+id: 34a32778b5044567ad0e239d2b45e1d6
+annotation_type: BookTitle
+revision: '00001'
+annotations:
+  4cadcf01c64c4758bf7739ae6c39be63:
+    span:
+      start: 0
+      end: 62
+  da6a24529276473ba204cc9dfa69bd33:
+    span:
+      start: 64
+      end: 110
+  783105273a2a4bcab0864cd738909630:
+    span:
+      start: 169
+      end: 186
+  1e14c605e4b94148a384f01f8042a159:
+    span:
+      start: 6805
+      end: 6891
+local_ids:
+  4cadcf01c64c4758bf7739ae6c39be63: 200000
+  da6a24529276473ba204cc9dfa69bd33: 200001
+  783105273a2a4bcab0864cd738909630: 200002
+  1e14c605e4b94148a384f01f8042a159: 200003
