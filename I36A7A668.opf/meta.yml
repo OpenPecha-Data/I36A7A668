@@ -2,15 +2,16 @@ id: I36A7A668
 initial_creation_type: ebook
 source_metadata:
   id: RDI-SK-04
-  title: ཤངས་པའི་རྣལ་འབྱོར་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།དེབ་ཕྲེང་བཞི་པ།
+  title: བཀའ་ཕྱག་ཆུ་བོ་ཟུང་འབྲེལ་གྱི་གདམས་པ་གཅེས་བཏུས།
   author: མཛད་པ་པོ། ཏཱ་ར་ནཱ་ཐ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
   authors: &id001
   - མཛད་པ་པོ། ཏཱ་ར་ནཱ་ཐ། འཇམ་མགོན་ཀོང་སྤྲུལ་བློ་གྲོས་མཐའ་ཡས།
   sku: RDI-SK-04
   cover: RDI-SK-04.jpeg
   volume: {}
+  title_source: epub:dc:title:ambiguous-layer
 ebook_metadata:
-  title: ཤངས་པའི་རྣལ་འབྱོར་ཐེམ་སྐས་གདམས་ངག་ཕྱོགས་བསྒྲིགས།དེབ་ཕྲེང་བཞི་པ།
+  title: བཀའ་ཕྱག་ཆུ་བོ་ཟུང་འབྲེལ་གྱི་གདམས་པ་གཅེས་བཏུས།
   authors: *id001
   sku: RDI-SK-04
   cover: RDI-SK-04.jpeg
